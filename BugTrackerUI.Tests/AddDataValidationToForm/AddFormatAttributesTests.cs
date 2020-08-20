@@ -12,7 +12,7 @@ using Xunit;
 namespace M5_BugTrackerUI.Tests.AddDataValidationToForm
 {
     public class M5_02_AddFormatAttributesTests
-    {
+  {
         [Fact(DisplayName = "Add Format Attributes @add-format-attributes")]
         public void AddFormatAttributesTest()
         {
